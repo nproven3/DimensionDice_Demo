@@ -1,11 +1,12 @@
                         Dimension Dice
 
 This is a current Work in progress I have decided to make public for resume purposes
+
 Other similar projects will remain private until purchased
 
-Hiding Strings in 3d space
+This code hides Strings in 3d space and will be heavily obfuscated in future versions
 
-Code is not properly obfuscated yet
+Code not complete yet
 
 Currently utilizes a 3d linked list to store the sparse matrix
 

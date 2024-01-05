@@ -1,0 +1,7 @@
+gcc encoder.c -o encode
+gcc decode.c -o decode
+
+running
+
+./encode
+./decode

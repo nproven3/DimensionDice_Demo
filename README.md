@@ -1,5 +1,8 @@
                         Dimension Dice
 
+This is a current Work in progress I have decided to make public for resume purposes
+Other similar projects will remain private until purchased
+
 Hiding Strings in 3d space
 
 Code is not properly obfuscated yet
